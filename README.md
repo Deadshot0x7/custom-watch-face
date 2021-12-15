@@ -6,7 +6,7 @@ Custom firmware for mi band
 * Download the repo 
 * Exctract it 
 * Move to the Directory 
-* Extcrat the "watcg face "
+* Extcrat the "watch face"
 * upload it to the mi band 
 
 Enjoy the mi band theme based on the custom rom :)
